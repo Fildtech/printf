@@ -1,1 +1,2 @@
-This is a printf projectdone by Kelechi and Friday 
+0x11. C - printf
+This is a printf group project done by Kelechi and Friday
